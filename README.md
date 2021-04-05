@@ -1,1 +1,3 @@
-# covid19_EDA
+# COVID-19_EDA
+
+https://andygrammer.github.io/blog/
